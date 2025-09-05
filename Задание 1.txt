@@ -1,0 +1,4 @@
+git log
+Взять кэш
+git reset --hard "кэш"
+git push --force origin main
